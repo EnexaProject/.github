@@ -35,7 +35,7 @@ This project encompasses several repositories for different functionalities:
 - [**enexa-service**](https://github.com/enexaproject/enexa-service): The core ENEXA service providing functionalities.
 - [**enexaproject.github.io**](https://github.com/enexaproject/enexaproject.github.io): Project website repository.
 - [**enexa-knowledge-extraction-demo-frontend**](https://github.com/enexaproject/enexa-knowledge-extraction-demo-frontend): Frontend for knowledge extraction demonstration.
-- [**enexa-tentris-module**](https://github.com/enexaproject/enexa-tentris-module): Tools for handling tensor operations.
+- [**enexa-tentris-module**](https://github.com/enexaproject/enexa-tentris-module): The Tentris triple store as ENEXA module.
 - [**enexa-cel-deploy-module**](https://github.com/enexaproject/enexa-cel-deploy-module): Deployment of explainable logic programs.
 - [**enexa-dice-embeddings**](https://github.com/enexaproject/enexa-dice-embeddings): Techniques for generating knowledge graph embeddings.
 - [**documentation**](https://github.com/enexaproject/documentation): Project documentation repository.
