@@ -2,6 +2,10 @@
 
 ENEXA is a European project focused on developing human-centered explainable machine learning (ML) approaches for real-world knowledge graphs. Funded by the European Union's Horizon Europe program (grant number 101070305), ENEXA aims to bridge the gap between theoretical guarantees and practical application of explainable ML on knowledge graphs.   
 
+[**ENEXA Project Website**](https://enexa.eu) <br>
+[**ENEXA Documentation**](https://enexa.eu/documentation)
+
+
 ## Project Goals
 
 - Achieve human-centered, transparent, and explainable AI for ethical development of digital and industrial solutions.
