@@ -26,26 +26,5 @@ The project plans to deploy its methods in three crucial European sectors:
 - Geospatial Intelligence
 - Brand Marketing
 
-## Project Repositories
-
-This project encompasses several repositories for different functionalities:
-
-- [**enexa-extraction-module**](https://github.com/enexaproject/enexa-extraction-module): Extraction of information from various sources.
-- [**enexa-tensor-reasoning**](https://github.com/enexaproject/enexa-tensor-reasoning): Reasoning over knowledge graphs using tensor-based methods.
-- [**enexa-service**](https://github.com/enexaproject/enexa-service): The core ENEXA service providing functionalities.
-- [**enexaproject.github.io**](https://github.com/enexaproject/enexaproject.github.io): Project website repository.
-- [**enexa-knowledge-extraction-demo-frontend**](https://github.com/enexaproject/enexa-knowledge-extraction-demo-frontend): Frontend for knowledge extraction demonstration.
-- [**enexa-tentris-module**](https://github.com/enexaproject/enexa-tentris-module): The Tentris triple store as ENEXA module.
-- [**enexa-cel-deploy-module**](https://github.com/enexaproject/enexa-cel-deploy-module): Deployment of explainable logic programs.
-- [**enexa-dice-embeddings**](https://github.com/enexaproject/enexa-dice-embeddings): Techniques for generating knowledge graph embeddings.
-- [**documentation**](https://github.com/enexaproject/documentation): Project documentation repository.
-- [**enexa-utils**](https://github.com/enexaproject/enexa-utils): Utility functions used across various modules.
-- [**enexa-kg-fixing-module**](https://github.com/enexaproject/enexa-kg-fixing-module): Tools for improving the quality of knowledge graphs.
-- [**enexa-cel-train-module**](https://github.com/enexaproject/enexa-cel-train-module): Training modules for explainable logic programs.
-- [**enexa-wikidata-preprocess-module**](https://github.com/enexaproject/enexa-wikidata-preprocess-module): Preprocessing routines for Wikidata integration.
-- [**enexa-transform-module**](https://github.com/enexaproject/enexa-transform-module): Transformation functionalities for knowledge graph data.
-- [**enexa-java-utils**](https://github.com/enexaproject/enexa-java-utils): Java utility libraries used in the project.
-- [**enexa-example-module**](https://github.com/enexaproject/enexa-example-module): Example usage scenarios for various functionalities.
-
 This README provides a high-level overview of the ENEXA project. For detailed technical information, please refer to the individual repository documentation for each module.
 You can reach the project documentation from this [link](https://enexa.eu/documentation/).
